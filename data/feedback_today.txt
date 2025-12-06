@@ -1,0 +1,10 @@
+2025-12-06 10:01 | C001 | The service was very slow today
+2025-12-06 11:22 | C002 | Excellent support, loved it
+2025-12-06 12:05 | C005 | I am unsatisfied with the billing process
+2025-12-06 12:45 | C006 | Delivery was delayed by 2 days, not happy
+2025-12-06 13:10 | C007 | App crashes every time I login
+2025-12-06 14:20 | C002 | Great experience, very satisfied
+2025-12-06 15:05 | C008 | Support staff was rude and unhelpful
+2025-12-06 15:30 | C009 | Everything is fine, thanks
+2025-12-06 16:10 | C010 | I love the new features in the app
+2025-12-06 16:50 | C011 | Wrong charges applied on my invoice
