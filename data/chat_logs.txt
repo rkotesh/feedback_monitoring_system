@@ -1,10 +1,25 @@
+2025-12-06 08:00 | C001 | The new update is amazing, love it
+2025-12-06 08:30 | C002 | Terrible app performance today
+2025-12-06 09:00 | C003 | Delivery is taking forever, very upset
 2025-12-06 09:15 | C003 | My delivery is delayed again
+2025-12-06 09:30 | C004 | Great support team, resolved quickly
 2025-12-06 09:45 | C012 | The app is too slow today
 2025-12-06 10:10 | C013 | Support resolved my issue quickly, thanks
+2025-12-06 10:20 | C014 | Website has numerous bugs
 2025-12-06 10:50 | C005 | I still haven't received a refund
+2025-12-06 11:15 | C011 | Service quality is amazing
 2025-12-06 11:30 | C014 | Excellent customer service
+2025-12-06 12:00 | C009 | Payment method not accepted, bad experience
 2025-12-06 12:15 | C006 | Delivery partner never arrived
+2025-12-06 12:30 | C010 | Love the loyalty program
 2025-12-06 12:50 | C015 | The website login failed multiple times
+2025-12-06 13:00 | C016 | Outstanding service delivery
 2025-12-06 13:40 | C016 | Everything looks great, happy with the service
 2025-12-06 14:10 | C007 | The app crashes every time I open it
+2025-12-06 14:30 | C008 | Billing error on my account
 2025-12-06 14:55 | C017 | I am angry about the wrong billing
+2025-12-06 15:20 | C018 | Support is poor and unhelpful
+2025-12-06 15:45 | C019 | Product quality is excellent
+2025-12-06 16:15 | C020 | App keeps freezing constantly
+2025-12-06 16:40 | C021 | Fantastic customer experience today
+2025-12-06 17:10 | C022 | Refund issue still not resolved

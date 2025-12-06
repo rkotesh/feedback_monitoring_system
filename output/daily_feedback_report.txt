@@ -1,8 +1,8 @@
 DAILY FEEDBACK REPORT
 ========================================
 
-Positive Feedback: 9
-Neutral Feedback: 19
-Negative Feedback: 7
+Positive Feedback: 20
+Neutral Feedback: 37
+Negative Feedback: 14
 
 Most Common Category: Service Issue
