@@ -8,7 +8,7 @@ from modules.dashboard import Dashboard
 
 
 def main():
-    print("🔍 Running Real-Time Customer Feedback Analyzer...")
+    print(" Running Real-Time Customer Feedback Analyzer...")
 
     os.makedirs("data", exist_ok=True)
     os.makedirs("logs", exist_ok=True)
