@@ -10,12 +10,10 @@ from modules.dashboard import Dashboard
 def main():
     print("🔍 Running Real-Time Customer Feedback Analyzer...")
 
-    # Ensure directories exist
     os.makedirs("data", exist_ok=True)
     os.makedirs("logs", exist_ok=True)
     os.makedirs("output", exist_ok=True)
 
-    # Load data
     loader = DataLoader()
     feedback_entries = loader.load_all()
 
@@ -40,15 +38,13 @@ def main():
 
         processed_entries.append(entry)
 
-    # Generate daily report
     report = ReportGenerator()
     report.generate(processed_entries)
 
-    # Generate dashboard output
     dashboard = Dashboard()
     dashboard.show(processed_entries, alert_system.alert_count)
 
-    print("✅ Processing Complete. Check 'output/' and 'logs/' folders.")
+    print("Processing Complete. Check 'output/' and 'logs/' folders.")
 
 
 if __name__ == "__main__":
